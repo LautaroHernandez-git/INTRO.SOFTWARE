@@ -1,0 +1,4 @@
+tu nombre Lautaro
+ tu apellido Hernandez
+ tu legajo 1214
+ tu materia preferida Intro

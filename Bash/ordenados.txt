@@ -1,0 +1,21 @@
+total 152
+8 -rw-r--r--@ 1 lautaro  staff    15B Mar 21 21:46 concatenados.txt
+8 -rwx------@ 1 lautaro  staff   352B Mar 17 22:54 ej10.sh
+8 -rwx------@ 1 lautaro  staff   623B Mar 17 23:13 ej11.sh
+8 -rwx------@ 1 lautaro  staff   102B Mar 19 23:57 ej12.sh
+8 -rw-r--r--@ 1 lautaro  staff   187B Mar 20 00:18 ej13.sh
+8 -rw-r--r--@ 1 lautaro  staff    70B Mar 21 20:52 ej19.sh
+8 -rwx------@ 1 lautaro  staff   137B Mar 17 20:36 ej2.sh
+8 -rw-r--r--@ 1 lautaro  staff   128B Mar 21 21:11 ej21.sh
+8 -rw-r--r--@ 1 lautaro  staff   257B Mar 21 21:45 ej22.sh
+8 -rw-r--r--@ 1 lautaro  staff   117B Mar 21 21:50 ej23.sh
+8 -rw-r--r--@ 1 lautaro  staff    27B Mar 22 03:09 ej24.sh
+8 -rwx------@ 1 lautaro  staff   126B Mar 17 20:43 ej3.sh
+8 -rwx------@ 1 lautaro  staff   151B Mar 17 20:51 ej5.sh
+8 -rwx------@ 1 lautaro  staff   257B Mar 17 21:18 ej6.sh
+8 -rwx------@ 1 lautaro  staff   180B Mar 17 21:35 ej8.sh
+8 -rwx------@ 1 lautaro  staff   154B Mar 17 22:33 ej9.sh
+8 -rw-r--r--@ 1 lautaro  staff     8B Mar 21 21:46 nombre1.txt
+8 -rw-r--r--@ 1 lautaro  staff     7B Mar 21 21:46 nombre2.txt
+0 -rw-r--r--  1 lautaro  staff     0B Mar 22 03:10 ordenados.txt
+8 -rw-------  1 lautaro  staff     1B Mar 19 19:54 pico.save

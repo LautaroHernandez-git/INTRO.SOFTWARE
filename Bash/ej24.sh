@@ -1,0 +1,2 @@
+ls -lhs > "ordenados.txt"
+
