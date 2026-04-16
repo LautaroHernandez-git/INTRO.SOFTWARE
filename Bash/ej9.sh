@@ -4,7 +4,7 @@ read nombre
 if [ $nombre = "manu" ] || [ $nombre = "Manu" ]; then
      echo "Hola, profe!"
 else
-     echo "Hola $nombre"
+     printf "Hola %s\n" "$nombre"
 fi
 
 
